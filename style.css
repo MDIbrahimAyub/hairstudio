@@ -266,14 +266,14 @@ nav ul li a {
 
 .overlay {
     position: absolute;
-    bottom: -180px;
+    bottom: -200px;
     left: 10px;
     transition: all 0.3s;
 }
 
 .service1:hover .overlay {
     background-color: linear-gradient(rgba(0, 0, 0, 0.5), #009688);
-    bottom: 100px;
+    bottom: 80px;
 }
 
 .service1:hover img {
