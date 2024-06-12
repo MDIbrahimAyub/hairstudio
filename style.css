@@ -266,7 +266,7 @@ nav ul li a {
 
 .overlay {
     position: absolute;
-    bottom: -140px;
+    bottom: -180px;
     left: 10px;
     transition: all 0.3s;
 }
