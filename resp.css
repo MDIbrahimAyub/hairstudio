@@ -1,0 +1,220 @@
+@media screen and (max-width:770px) {
+    .banner-text {
+        padding-top: 40%;
+    }
+
+    .banner-text a {
+        margin: 20px;
+        display: block;
+        font-size: 10px;
+    }
+
+    .logo {
+        top: 4%;
+        width: 120px;
+    }
+
+    #menubtn {
+        width: 50px;
+        height: 46px;
+    }
+
+    #menubtn img {
+        width: 17px;
+    }
+
+    .banner-text h1 {
+        font-size: 70px;
+    }
+
+    .banner-text p {
+        font-size: 14px;
+    }
+
+    .about {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about1 {
+        width: 100%;
+        height: 50%;
+    }
+
+    .ab-t {
+        width: 100%;
+    }
+
+    .ab-t p {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .a-t p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .a-t h1 {
+        font-size: 30px;
+    }
+
+    .a-t p::after {
+        content: '';
+        width: 30px;
+        height: 25px;
+        background: linear-gradient(#009688, #fff);
+        position: absolute;
+        top: -10px;
+        left: 0;
+        z-index: -1;
+        transform: rotate(1deg);
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .ab-t h1 {
+        font-size: 25px;
+    }
+
+    .about1 img {
+        width: 100%;
+        height: 80%;
+        object-fit: contain;
+    }
+
+    .s-t p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .s-t h1 {
+        font-size: 30px;
+    }
+
+    .s-t p::after {
+        content: '';
+        width: 30px;
+        height: 25px;
+        background: linear-gradient(#009688, #fff);
+        position: absolute;
+        top: -10px;
+        left: 0;
+        z-index: -1;
+        transform: rotate(1deg);
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .service {
+        width: 100%;
+        height: 170vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .service1 {
+        flex-basis: 80%;
+    }
+
+    .testimonial-row {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .testimonial-col {
+        flex-basis: 60%;
+    }
+
+    .user h5 {
+        font-size: 20px;
+    }
+
+    .user small {
+        font-size: 15px;
+    }
+
+    .t-t p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .t-t h1 {
+        font-size: 30px;
+    }
+
+    .t-t p::after {
+        content: '';
+        width: 30px;
+        height: 25px;
+        background: linear-gradient(#009688, #fff);
+        position: absolute;
+        top: -10px;
+        left: 0;
+        z-index: -1;
+        transform: rotate(1deg);
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+    .f-t p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .f-t h1 {
+        font-size: 30px;
+    }
+
+    .f-t p::after {
+        content: '';
+        width: 30px;
+        height: 25px;
+        background: linear-gradient(#009688, #fff);
+        position: absolute;
+        top: -10px;
+        left: 0;
+        z-index: -1;
+        transform: rotate(1deg);
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .footer1{
+        width: 100%;
+        height: 40%;
+    }
+    .footer1-t h1{
+        font-size: 30px;
+    }
+    .footer1-t p{
+        font-size: 20px;
+    }
+    .footer1-t p span i{
+        font-size: 20px;
+    }
+    .footer2-t{
+        padding: 70px;
+    }
+    .footer2-t h1{
+        font-size: 30px;
+    }
+    .footer2-t p{
+        font-size: 20px;
+    }
+    .footer2-t p span i{
+        font-size: 20px;
+    }
+    .f-icon{
+        padding-top: 50px;
+    }
+    .f-icon i{
+        font-size: 20px;
+    }
+}
